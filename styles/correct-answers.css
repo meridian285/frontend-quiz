@@ -1,0 +1,57 @@
+.pass-question {
+    justify-content: start;
+}
+
+.pass-question span img {
+    margin-left: 13px;
+}
+
+.pass-question span {
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.test-result_title {
+    margin-left: 15px;
+    color: #6933DC;
+}
+
+.title {
+    margin: 60px 0 0 0;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    font-size: 54px;
+    line-height: 65px;
+}
+
+.title span {
+    color: #6933DC;
+}
+
+.credential {
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-size: 20px;
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+}
+.credential span {
+    color: #6933DC;
+}
+
+.test-question-options {
+    min-height: 230px;
+}
+
+#answer-two-0 ~ label[for='answer-two-0']{
+    color: green;
+}
+
+#answer-two-0 input[type="radio"] {
+    border: 5px solid #5FDC33;
+}
+
+.back {
+    justify-content: end;
+}
